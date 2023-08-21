@@ -1,5 +1,5 @@
 /*****************************************************************************
-
+To be used with the mccdaq library: https://github.com/mccdaq/daqhats/tree/master
     To reach:
     * cd 
     * cd daqhats/examples/c/mcc118/continuous_scan
